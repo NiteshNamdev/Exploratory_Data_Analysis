@@ -79,3 +79,7 @@ In this notebook I have tried following things :
 
 # Features used for the model
 The important features which are used in building models are # of bedrooms, area of the living room, location of the homes in the County, age of the buildings etc. As we have seen from the data exploration, these features have significant importance in terms of pricing of a house and thus can contribute in predicting future house price.
+
+
+### Square feet of Basement area impact on house sale price 
+![image](https://github.com/NiteshNamdev/Exploratory_data_analysis/assets/154548242/873dd65f-485f-4283-9f76-f0a74f2f41d0)

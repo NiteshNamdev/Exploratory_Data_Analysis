@@ -83,3 +83,11 @@ The important features which are used in building models are # of bedrooms, area
 
 ### Square feet of Basement area impact on house sale price 
 ![image](https://github.com/NiteshNamdev/Exploratory_data_analysis/assets/154548242/873dd65f-485f-4283-9f76-f0a74f2f41d0)
+
+
+### Size and Bedrooms Interaction on House Sale price
+![image](https://github.com/NiteshNamdev/Exploratory_data_analysis/assets/154548242/7209cca8-0067-413a-aaaa-c669bf2b4e1a)
+
+
+## Conclusion :
+Together, location of the house , square footage of the living area of the houses, grade, and the size of neighbors’ homes result as the best predictors of a house’s price in King County. The model can significantly help Real Estate investors to take these factors all together into account while acquring a house. The model though has a limitation which is , houses those are less than a million dollar typically with 2-6 bedrooms are within the scope of this model. Some further investigations on this data showed that due to limited data on high-priced-valued homes, the machine learning model produces high residual errors.

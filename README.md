@@ -90,4 +90,6 @@ The important features which are used in building models are # of bedrooms, area
 
 
 ## Conclusion :
-Together, location of the house , square footage of the living area of the houses, grade, and the size of neighbors’ homes result as the best predictors of a house’s price in King County. The model can significantly help Real Estate investors to take these factors all together into account while acquring a house. The model though has a limitation which is , houses those are less than a million dollar typically with 2-6 bedrooms are within the scope of this model. Some further investigations on this data showed that due to limited data on high-priced-valued homes, the machine learning model produces high residual errors.
+This comprehensive real estate pricing analysis has provided valuable insights into various aspects of the dataset. From loading and cleaning to in-depth exploratory analyses and geospatial considerations, we've equipped ourselves with a thorough understanding of the factors influencing house prices. Each step has contributed to a holistic view, laying the groundwork for data-driven decision-making in the dynamic real estate market.
+Empowered with these insights, we are well-positioned to make informed decisions, tailor marketing strategies, and enhance predictive models for a competitive advantage in the real estate landscape.
+
